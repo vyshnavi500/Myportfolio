@@ -4,6 +4,7 @@ import Navbar from "./Components/Navbar";
 import Projects from "./Components/Projects";
 import Contact from "./Components/Contact";
 import Testimonials from "./Components/Testimonials";
+import Skills from "./Components/Skills";
 
 export default function App() {
   return (
